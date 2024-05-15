@@ -25,3 +25,4 @@ void	ft_print_alphabet(void)
 	while (letter <= 'z')
 		ft_putchar(letter++);
 }
+aaaaa
